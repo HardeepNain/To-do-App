@@ -1,10 +1,10 @@
-# Todo App
-This is a simple todo app web app for tracking daily todo tasks.
+# Task Manager
+This is a simple task manager web app for tracking daily tasks.
 
 ## Features 📝
 
-- The web app allows users to add todo tasks to a list.
-- The todo tasks can be deleted from the list randomly after completion, using `JavaScript DOM manipulation`.
+- The web app allows users to add tasks to a list.
+- The tasks can be deleted from the list randomly after completion, using `JavaScript DOM manipulation`.
 
 ## Tech Stack ⚒
 
