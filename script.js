@@ -17,7 +17,6 @@ addTodoButton.addEventListener("click", function() {
     addTodo();
 });
 
-
 function addTodo() {
     //console.log(event);
     let todoInputValue = todoInput.value; //yha pe todoInput(input box) element ke value key me jo pda hoga wo aa jaayega
