@@ -63,5 +63,4 @@ function deleteTodo(e) {
 kyunki humne deleteTodoButton pe ek event lgaya hai to iss element ka ek event obj bnega
 to agr hum e.target ko console krenge to ye button console pe dhikega ki humne deleteTodoButton ko click kiya hai
 to iss line ka matlab hai ki jaha pe hum click kr rhe hai(deleteTodoButton) uski parentNode(div with class todo-item) ko remove krdo
- 
 */
