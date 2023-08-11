@@ -59,6 +59,7 @@ function deleteTodo(e) {
 }
 
 /*
+
 #1
 kyunki humne deleteTodoButton pe ek event lgaya hai to iss element ka ek event obj bnega
 to agr hum e.target ko console krenge to ye button console pe dhikega ki humne deleteTodoButton ko click kiya hai
